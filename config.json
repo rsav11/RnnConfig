@@ -1,13 +1,13 @@
 {
-  "serverName": "The Ends Roleplay 3.0",
-  "description": "The Ends Roleplay is a serious FiveM roleplay server founded by Slimey Sl1me & MK.",
-  "discordUrl": "https://discord.gg/theends",
-  "tebexUrl": "https://store.theendsroleplay.com",
+  "serverName": "Rnn:Fivem",
+  "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
+  "discordUrl": "https://discord.gg/pSD8mb5wKW",
+  "tebexUrl": "Your Url Here",
 
   "discordCard": {
     "title": "DISCORD SERVER",
-    "description": "Make sure you are in the The Ends Roleplay Discord. Connect, compete, and stay in the loop with the community!",
-    "url": "https://discord.gg/theends"
+    "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
+    "url": "https://discord.gg/pSD8mb5wKW"
   },
 
   "team": [
@@ -19,18 +19,18 @@
   ],
 
   "rules": [
-    "No metagaming: Don't use out-of-character info to influence your in-character actions.",
-    "No powergaming: Don't force actions on others or do unrealistic things your character couldn't do.",
-    "No combat logging: Don't log out during active situations like fights or arrests.",
-    "Respect character roles: Don't act like a cop, medic, or other role unless your character is one.",
-    "Value your life: Don't do reckless things your character wouldn't risk without strong reason."
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here"
   ],
 
   "gallery": [
-    "https://media.discordapp.net/attachments/1343451660491558932/1471872030688415866/image.png?ex=69ac32a6&is=69aae126&hm=b72caf90d97ae8f023ebe663d2b71fa992b42a36651f5062cf730c131e05b172&=&format=webp&quality=lossless&width=1523&height=856",
-    "https://media.discordapp.net/attachments/1343451660491558932/1471364339775836191/Screenshot_2026-02-12_043352.png?ex=69ac5413&is=69ab0293&hm=a9ba0cfa7e35f0f5cf6f3c5ce249afda5da555878ae0653cea9f76c4fa60d0f6&=&format=webp&quality=lossless&width=1523&height=856",
-    "https://media.discordapp.net/attachments/1343451660491558932/1470587391977852959/image.png?ex=69accc3c&is=69ab7abc&hm=aa12d558e522a9c86744bd65fcd9c2e69598522d7f617665194c77a2e726d1e8&=&format=webp&quality=lossless&width=1523&height=856",
-    "https://media.discordapp.net/attachments/1343451660491558932/1469742363617263666/Screenshot_2026-02-05_160643.png?ex=69ac5c3d&is=69ab0abd&hm=4df5482426d3bcd1f33565ca8a6a8c7135c1fd416ef6a3ab319502770e92441e&=&format=webp&quality=lossless&width=1523&height=856"
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
   ],
 
   "music": [
