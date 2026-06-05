@@ -27,10 +27,10 @@
   ],
 
   "gallery": [
-    "https://media.discordapp.net/attachments/1343451660491558932/1471872030688415866/image.png?ex=69ac32a6&is=69aae126&hm=b72caf90d97ae8f023ebe663d2b71fa992b42a36651f5062cf730c131e05b172&=&format=webp&quality=lossless&width=1523&height=856",
-    "https://media.discordapp.net/attachments/1343451660491558932/1471364339775836191/Screenshot_2026-02-12_043352.png?ex=69ac5413&is=69ab0293&hm=a9ba0cfa7e35f0f5cf6f3c5ce249afda5da555878ae0653cea9f76c4fa60d0f6&=&format=webp&quality=lossless&width=1523&height=856",
-    "https://media.discordapp.net/attachments/1343451660491558932/1470587391977852959/image.png?ex=69accc3c&is=69ab7abc&hm=aa12d558e522a9c86744bd65fcd9c2e69598522d7f617665194c77a2e726d1e8&=&format=webp&quality=lossless&width=1523&height=856",
-    "https://media.discordapp.net/attachments/1343451660491558932/1469742363617263666/Screenshot_2026-02-05_160643.png?ex=69ac5c3d&is=69ab0abd&hm=4df5482426d3bcd1f33565ca8a6a8c7135c1fd416ef6a3ab319502770e92441e&=&format=webp&quality=lossless&width=1523&height=856"
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
   ],
 
   "music": [
@@ -63,49 +63,5 @@
       "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512579619314729091/image.png?ex=6a249b0b&is=6a23498b&hm=92c838299a4eb76eefb6c98ca8b652314b2687dea168a1fe4724ff11b856db0c&",
       "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581852911632445/TyBando_-_All_Roads_Official_Music_Vide....mp4?ex=6a249d20&is=6a234ba0&hm=0f3ce991ce49372945b559c4dae7d905d172ddc150ad34078e7aeebd59c3bb3f&"
     },
-
-    {
-      "title": "Yeah Baby",
-      "artist": "D Block Europe Young Adz",
-      "cover": "https://i.scdn.co/image/ab67616d00001e029f12296268c9221ff998bb3b",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/D-Block%20Europe%20(Young%20Adz)%20YEAH%20BABY%20%5BOfficial%20Video%5D_1080p.mp4"
-    },
-
-    {
-      "title": "Bodycam Remix",
-      "artist": "RR Jooka, Foreign Muli, Mbizz",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jyIFJpxCPG2AUz0iE5v_iQ5vl1II2Ov5rA&s",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/%23RR%20JOOKA%20-%20BODYCAM%20RREMIX%20ft%20FOREIGN%20MULI%20X%20MBIZZ_1080p.mp4"
-    },
-
-    {
-      "title": "Hypebeast",
-      "artist": "Lkay80m",
-      "cover": "https://i.scdn.co/image/ab67616d0000b27316295c4dd944738deaa841b2",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lkay80m%20-%20Hypebeast%20(Official%20Music%20Video)_1080p.mp4"
-    },
-
-    {
-      "title": "Top of The Hill",
-      "artist": "Shuuds",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FyQ05gRu_hqjEBJTdvgo9JhTN-6q8ZNYUA&s",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Shuuds%20-%20Top%20Of%20The%20Hill%20(Official%20Video)_1080p.mp4"
-    },
-
-    {
-      "title": "OOOWE",
-      "artist": "Hzino",
-      "cover": "https://resources.tidal.com/images/ac833f58/d86b/444e/b0ef/a24e7a29c43c/750x750.jpg",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_HZINO-OOOWE-STUDIO-FREESTYLE-EP-2-OFFICI_Media_z_irPa7PBV0_001_1080p.mp4"
-    },
-
-    
-
-    {
-      "title": "11000 Sq Ft",
-      "artist": "Fz",
-      "cover": "https://i.scdn.co/image/ab67616d0000b273cc1426a012a97917a5c7e2a4",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/videoplayback%20(5).mp4"
-    }
   ]
 }
